@@ -10,7 +10,7 @@ class Layout extends React.Component {
                 <link href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.0/css/bulma.css" rel="stylesheet" />
                 <title>What the Foreign Exchange (WTF)!!</title>
                 <meta name="description" content="What the Foreign Exchange is a fun way to know exchange rates based on trends" />
-                <meta property="og:url" content="https://hackernewsdeck.vercel.app/" />
+                <meta property="og:url" content="https://wtforeignexchange.netlify.app/" />
                 <meta property="og:site_name" content="HackerNews Deck" />
                 <meta property="og:title" content="What the Foreign Exchange!!" />
                 <meta property="og:description" content="What the Foreign Exchange is a fun way to know exchange rates based on trends" />
