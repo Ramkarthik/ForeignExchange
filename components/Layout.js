@@ -14,7 +14,7 @@ class Layout extends React.Component {
                 <meta property="og:site_name" content="HackerNews Deck" />
                 <meta property="og:title" content="What the Foreign Exchange!!" />
                 <meta property="og:description" content="What the Foreign Exchange is a fun way to know exchange rates based on trends" />
-                <meta property="og:image" content="./foreign-exchange.png" />
+                <meta property="og:image" content="https://wtforeignexchange.netlify.app/foreign-exchange.png" />
                 <meta property="og:image:type" content="image/png" />
                 <meta property="og:image:width" content="500" />
                 <meta property="og:image:height" content="500" />
@@ -23,7 +23,7 @@ class Layout extends React.Component {
                 <meta property="twitter:card" content="summary_large_image" />
                 <meta property="twitter:title" content="What the Foreign Exchange!!" />
                 <meta property="twitter:description" content="What the Foreign Exchange is a fun way to know exchange rates based on trends" />
-                <meta property="twitter:image:src" content="./foreign-exchange.png" />
+                <meta property="twitter:image:src" content="https://wtforeignexchange.netlify.app/foreign-exchange.png" />
                 <meta property="twitter:image:width" content="500" />
                 <meta property="twitter:image:height" content="500" />
             </Head>
