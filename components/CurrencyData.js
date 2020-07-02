@@ -232,7 +232,7 @@ const CurrencyData = [
     },
     {
         short: "IDR",
-        name: "Hong Kong Dollar",
+        name: "Indonesia Rupiah",
         rate: 0,
         today: 0,
         count: 0,
